@@ -34,4 +34,3 @@
 - I can filter my get request by also passing along any field and value in the query(ie. /api/issues/{project}?open=false). I can pass along as many fields/values as I want.
 
 - All 11 functional tests are complete and passing.
->>>>>>> 669d2d17d7a8b186a0cd81640fc50dbc0e82a979
